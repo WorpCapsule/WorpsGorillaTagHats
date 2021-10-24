@@ -1,4 +1,5 @@
-# WorpsGorillaTagHats
+# WorpsGorillaTagHats,Gmats,AndGTMAPs
+Gorilla Tag cosmetics I made. 
 First release! 
 Hats that I made that work. When I make new ones it will be updated.
 I own these. The GrassTopper was based off of bobbies tophat, I just added a different material to it.
